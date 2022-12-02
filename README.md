@@ -6,5 +6,4 @@
 
 Данные по экспериментам с оптическими образцами и измерениями на добровольцах доступны по ссылке
 
-https://drive.google.com/drive/folders/1AVp24B4Ivod1ptYqB7-5KZtENof84B5T?usp=share_link
-(остальные данные добавляются)
+
