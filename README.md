@@ -4,7 +4,7 @@ This project contains a script for Monte Carlo modeling of light propagation in 
 
 ## Typical dependence of diffuse reflectance on spatial frequency with different absorption coefficients
 <p align="center">
-  <img src="https://github.com/petthebeaver/PyXOpto-modeling-SFDI/blob/f675f7a608b1d1a927103e22bd95cf6b218e01b7/R(k).png" />
+  <img src="https://github.com/petthebeaver/PyXOpto-modeling-SFDI/blob/c3be70780a7a18dbdd0039d72a33e07530d039b9/R(k).png" />
 </p>
 
 ## Model prediction results
